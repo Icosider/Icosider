@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Icosider!
 
-- 🔭 I’m currently working on Azimuth
-- 🌱 I’m currently learning OpenGL
-- 📫 How to reach me: icosider.ru
-- ⚡ Fun fact: Im not people
+- 💻 Know languages: Java, Kotlin and Python.
+- 🌱 I’m currently learning OpenGL and working on Quantum
+- 📫 U can reach me: icosider.ru
+- 📖 I am engaged in programming since 2014, on Java from 2016
