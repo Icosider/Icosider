@@ -1,6 +1,6 @@
-### Hi, I'm Icosider!
+### About
 
-- 💻 Know languages: Java, Kotlin and Python.
-- 🌱 I’m currently learning OpenGL and working on Quantum
-- 📫 U can reach me: icosider.ru
-- 📖 I am engaged in programming since 2014, on Java from 2016
+[Ru] Здесь могла быть ваша реклама
+[En] Your advertisement could be here
+[Fr] Votre annonce pourrait être ici
+[Tt] Монда сезнең реклама булырга мөмкин
